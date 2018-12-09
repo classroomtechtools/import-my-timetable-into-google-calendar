@@ -18,7 +18,7 @@ Make a copy of [this spreadsheet](https://docs.google.com/spreadsheets/d/1BKcG9v
 
 ### Adjust the date information to your Calendar
 
-The Dates tab has a few settings that you can adjust. For holidays, simply overwrite your info. For example, if you have a three-dayholiday including on 1/21/2019 (a Monday) and school re-opens on Tuesday, overwrite with the date 1/22/2019. If the rotation schedule has some exceptions — for example maybe you have two Day 2s in a row, or something (schools can have complicated needs) — you can also overwrite in the same manner as you did the date.
+The Dates tab has a few settings that you can adjust. For holidays, simply overwrite your info. For example, if you have a three-dayholiday including on `1/21/2019` (a Monday) and school re-opens on Tuesday, overwrite with it with the date `1/22/2019`. If the rotation schedule has some exceptions — for example maybe you have two Day 2s in a row, or something (schools can have complicated needs) — you can also overwrite in the same manner as you did the date.
 
 ### Adjust the Periods tab
 
