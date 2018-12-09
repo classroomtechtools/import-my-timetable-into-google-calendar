@@ -4,6 +4,8 @@ Teachers enter their timetable info into a sheet, and then bring exported CSV in
 
 Teachers will then get notifications when their classes arrive, or when they have duties, or anything else that in this day in age is useful to have a reminder about.
 
+[![ImportMyTimetableIntoGoogleCalendar](https://img.youtube.com/vi/WeY3t5RY7dw/0.jpg)](https://www.youtube.com/watch?v=WeY3t5RY7dw)
+
 ## Copyright
 
 Released as Open Source software with an MIT license. Geeks may find the formulas intersting for this particular use case. 2018 [Classroom Tech Tools](https://classroomtechtools.com).
