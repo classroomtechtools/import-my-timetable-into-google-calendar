@@ -22,7 +22,7 @@ The Dates tab has a few settings that you can adjust. For holidays, simply overw
 
 ### Adjust the Periods tab
 
-Every school has a different period schedule, and so enter it there. Note that columns A and B need to be sorted in order for the other columns to work (there's a `VLOOKUP` with `true` for the third parameter). Also note that if you need more than 20 rows to input Period information, you're going to have to adjust the Data Validation for Column B in the `Enter Timetable` tab.
+Every school has a different period schedule, and so enter it there. Note that columns A and B need to be sorted in order for the other columns to work (there's a `VLOOKUP` with `true` for the fourth `is_sorted` parameter). Also note that if you need more than 20 rows to input Period information, you're going to have to adjust the Data Validation for Column B in the `Enter Timetable` tab.
 
 ### Share it out with Teachers, who then enter their timetable data
 
