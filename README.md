@@ -1,6 +1,12 @@
 # Import My Timetable into Google Calendar
 
-Teachers enter their timetable info into a sheet, and then bring exported CSV into their Google Calendar. Particularly useful if you have a rotating timetable of more than five days and don't want to manually add them one by one.
+Shown below is a school calendar with a 7-day rotating timetable. Tuesday is Day 1, which means that Monday is Day 7 — the last day of the rotation. Wednesday is Day 2, but because Thursday is a school holiday, that means Friday is Day 3. Google Calendars don't have ability to create repeating events that follow this pattern:
+
+![Something](assets/calendar_example.png)
+
+For an N-day rotating timetable, how do teachers enter repeating events such as their classes, duties, and meetings?
+
+In this solution, teachers enter their timetable info into a sheet, and then bring exported CSV into their Google Calendar. Particularly useful if you have a rotating timetable of more than five days and don't want to manually add them one by one.
 
 Teachers will then get notifications when their classes arrive, or when they have duties, or anything else that in this day in age is useful to have a reminder about.
 
